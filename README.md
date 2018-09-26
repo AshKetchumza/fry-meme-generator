@@ -7,11 +7,11 @@ npm install fry-meme-generator
 ### Usage
 
 ```js
-const device = require('fry-meme-generator');
+const frymeme = require('fry-meme-generator');
 
 // I'll write some stuff here to explain later
 
-console.log('lel');
+console.log(frymeme.fryme);
 
 ```
 
@@ -19,8 +19,7 @@ console.log('lel');
 
 ```json
 {   
-    "result-image" : "result image goes here",
-    "original-text" : "original text goes here"
+    "http://ashleysanders.co.za/images/fryme.png"
 }
 
 ```
