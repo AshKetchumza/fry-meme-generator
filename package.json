@@ -1,14 +1,14 @@
 {
-  "name": "device-ip-location",
-  "version": "1.0.15",
-  "description": "Get key device information from your systems users i.e operating system & version, browser name & version, location and time as per users locale.",
+  "name": "fry-meme-generator",
+  "version": "1.0.12",
+  "description": "An npm module with no purpose other than generating custom Fry memes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/AshKetchumza/device-ip-location"
+    "url": "git://github.com/AshKetchumza/fry-meme-generator"
   },
   "keywords": [
     "ip",
@@ -20,7 +20,5 @@
   ],
   "author": "Ashley Sanders <ashleymichaelsanders@gmail.com> (https://ashleysanders.co.za)",
   "license": "ISC",
-  "dependencies": {
-    "node-device-detector": "^1.1.0"
-  }
+  "dependencies": {}
 }
