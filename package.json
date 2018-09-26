@@ -1,7 +1,7 @@
 {
   "name": "fry-meme-generator",
   "version": "1.0.12",
-  "description": "An npm module with no purpose other than generating custom Fry memes",
+  "description": "An npm module with no purpose other than returning the Fry - Take My Money meme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
