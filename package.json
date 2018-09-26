@@ -1,6 +1,6 @@
 {
   "name": "fry-meme-generator",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "An npm module with no purpose other than returning the Fry - Take My Money meme",
   "main": "index.js",
   "scripts": {

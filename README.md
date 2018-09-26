@@ -9,17 +9,15 @@ npm install fry-meme-generator
 ```js
 const frymeme = require('fry-meme-generator');
 
-// I'll write some stuff here to explain later
+var meme = frymeme.fryme();
 
-console.log(frymeme.fryme);
+console.log(meme);
 
 ```
 
 ### Result parse
 
 ```json
-{   
-    "http://ashleysanders.co.za/images/fryme.png"
-}
+"http://ashleysanders.co.za/images/fryme.png"
 
 ```
